@@ -24,6 +24,7 @@ namespace FoodLy
         private int pointsToUse = 0;
         private int availablePoints = 0;
 
+
         public MainWindow()
         {
             InitializeComponent();
